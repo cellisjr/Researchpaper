@@ -25,6 +25,7 @@ p{
 .computers{
   background-color: #FBFF00;
     margin: 0px auto;
+    height: 200px;
 }
 .phone{
   background-color: #FFD500;
