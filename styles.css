@@ -54,5 +54,6 @@ text-transform: uppercase;
   padding: 0 10px
 }
 .header .container{
-  
+  position: relative;
+  top: 200px;
 }
