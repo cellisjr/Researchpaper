@@ -13,7 +13,6 @@ h2{
 p{
   text-align: center;
   font-family: 'Orbitron', sans-serif;
-  font-size: 10px;
 }
 .technology{
     margin: auto;
@@ -24,7 +23,6 @@ p{
 .computers{
   background-color: #FBFF00;
     margin: 0px auto;
-    height: 200px;
 }
 .phone{
   background-color: #FFD500;
@@ -56,4 +54,7 @@ text-transform: uppercase;
 .header .container{
   position: relative;
   top: 200px;
+}
+.footer{
+  text-align: center;
 }
